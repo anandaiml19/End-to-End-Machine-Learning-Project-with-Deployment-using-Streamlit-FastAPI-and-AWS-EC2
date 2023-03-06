@@ -60,7 +60,15 @@ __The work flow for this project is as below:__
 
 __Concrete Strenth Prediction Web App__
 
-<p align="center"> (https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete%20app.png)
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete%20app.png" /></a></p>
+
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete1.png" /></a></p>
+
+__Fast API__
+
+<p  align="center"><img width="80%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/fast%20api.png" /></a></p>
+
+<p  align="center"><img width="80%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/fast%20api%201.png" /></a></p>
 
 
 
