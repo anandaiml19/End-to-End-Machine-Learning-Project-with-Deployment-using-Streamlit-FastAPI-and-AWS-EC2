@@ -23,8 +23,11 @@ The independent varaibale is the strength of the concrete.
 •	Fine aggregate content – Amount of Fine aggregate content
 
 •	Age – Days to dry the concrete
+  
 
-__The work flow for this project is as below:__
+### __The work flow for this project is as below:__
+  
+  
 
 •	Load the dataset with dependent and independent variables
 
@@ -57,14 +60,17 @@ __The work flow for this project is as below:__
 •	Create FastAPI 
 
 •	Deploy the App in Amazon web services(AWS) EC2 server
+  
 
-__Concrete Strenth Prediction Web App__
+### __Concrete Strenth Prediction Web App:__
+  
 
 <p  align="center"><img width="50%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete%20app.png" /></a></p>
 
 <p  align="center"><img width="50%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete1.png" /></a></p>
 
-__Fast API__
+### __Fast API__
+
 
 <p  align="center"><img width="80%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/fast%20api.png" /></a></p>
 
