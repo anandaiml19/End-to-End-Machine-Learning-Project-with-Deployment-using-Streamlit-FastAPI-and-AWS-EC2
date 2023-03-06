@@ -58,6 +58,11 @@ __The work flow for this project is as below:__
 
 •	Deploy the App in Amazon web services(AWS) EC2 server
 
+__Concrete Strenth Prediction Web App__
+
+<p align="center"> (https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete%20app.png)
+
+
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/anandaiml19):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 ##For any doubts/queries 🔗 👇
