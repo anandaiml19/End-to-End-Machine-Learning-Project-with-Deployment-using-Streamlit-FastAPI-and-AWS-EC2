@@ -1,0 +1,7 @@
+numpy
+pickle
+streamlit
+pillow
+requests
+sklearn==1.2.1
+xgboost==1.7.2
