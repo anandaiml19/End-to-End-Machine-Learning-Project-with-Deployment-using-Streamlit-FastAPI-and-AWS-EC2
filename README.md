@@ -64,7 +64,7 @@ The independent varaibale is the strength of the concrete.
 
 ### __Concrete Strenth Prediction Web App:__
 
-[AWS EC2 WEB APPLICATION LINK](http://15.206.73.124:8501/)
+[AWS EC2 WEB APPLICATION LINK](http://43.204.126.156:8501/)
   
 
 <p  align="center"><img width="50%" src="https://github.com/anandaiml19/End-to-End-Machine-Learning-Project-with-Deployment-using-Streamlit-FastAPI-and-AWS-EC2/blob/main/concrete%20app.png" /></a></p>
