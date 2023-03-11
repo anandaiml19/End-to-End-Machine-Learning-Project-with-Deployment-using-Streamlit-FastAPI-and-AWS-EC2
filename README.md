@@ -4,7 +4,7 @@
 ### __About Project👨‍💻__ 
 
 The Machine learning project aim to predict the strength of concrete structure based on different dependent variables viz., cement content, blast furnance slag, fly ash content, water content, superplasticizer, coarse aggregate content, fine  aggregate content, days dried (a total of 8). 
-The independent varaibale is the strength of the concrete.
+The independent varibale is the strength of the concrete.
 
 ### __Description of dependent variables:__
 
